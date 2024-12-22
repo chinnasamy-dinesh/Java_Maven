@@ -64,7 +64,7 @@ public class Statement {
         System.out.println("\nIf Else IF Ladder Statement:");
         int i = 20;
 
-        // if-else-if ladder to check the value of i i == 10 is checked, It evaluates to false because i is 20
+        // if-else-if ladder to check the value of i == 10 is checked, It evaluates to false because i is 20
         if (i == 10) {
             System.out.println("i is 10");
         } else if (i == 20) // The second else if condition i == 20 is checked:, It evaluates to true because i is 20.
